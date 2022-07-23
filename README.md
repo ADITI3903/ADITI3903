@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADITI3903
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python and R
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me aditivmandloi@yahoo.com
 
